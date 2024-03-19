@@ -1,0 +1,20 @@
+1.Una habilidad clave de los administradores linux es el troubleshooting, la cual es la capacidad que tiene un administrador de:-->Rta:Encontrar, diagnosticar y resolver un problema dentro de un sistema.
+2.¿Qué es un servidor informático?-->Rta:Un grupo de recursos tecnológicos (software y hardware) que cumplen con uno o varios propósitos.
+3.¿Qué es Linux?-->Rta:Es solo el kernel que permite crear interfaces a bajo nivel para que el sistema operativo principal funcione.
+4.Un sistema operativo Linux se puede subdividir en las siguientes capas:-->Rta:Hardware, kernel, shell y aplicaciones.
+5.Si quisieras usar repositorios privativos en un servidor Debian, ¿qué tendrías qué hacer?-->Rta:Se tienen que activar los non free repositories en el manejador de paquetes.
+6.¿Cuánto tiempo aproximado de soporte tiene un sistema de tipo LTS?-->Rta:5 años
+7.¿Qué es una nube híbrida?-->Rta:Es una combinación de servicios on premise y cloud.
+8.Esta pieza de software nos permite crear un puente entre el hardware físico y las máquinas virtuales en el proceso de virtualización.-->Rta:Hypervisor
+9.Si tuvieras que montar múltiples servidores priorizando el consumo de recursos, al momento de virtualizar, ¿qué tipo de hypervisor usarías?-->Rta:Usaría uno de tipo 1, porque no tiene un sistema operativo como intermediario lo cual lo vuelve más eficiente en consumo de recursos.
+10.¿Qué tipo de sistema de archivos es el que se utiliza por defecto en sistemas Linux?-->Rta:EXT4
+11.Si quisiera hacer una referencia a un directorio, ¿qué tipo de link debería crear?-->Rta:Link simbólico
+12.Es donde se alojan los paquetes para que el usuario pueda descargarlos e instalar el software. Los controlan los distribuidores de Linux.-->Rta:Repositorios
+13.Si descargas un paquete con la terminación .deb, ¿qué manejador de paquetes usarías para instalarlo?-->Rta:apt
+14.Si queremos que un archivo ejecutable sea posible de encontrar en todo el sistema, ¿a qué carpeta lo debemos mover?-->Rta:/bin
+15.Representa una referencia a un programa ejecutandose dentro de nuestro sistema-->Rta:Proceso
+16.¿Qué partición usa por defecto los sistemas RHEL?-->Rta:XFS
+17.Si queremos montar nuestro archivo swap siempre al inicio del sistema, ¿qué archivo debemos editar para lograr esto?-->Rta:/etc/fstab
+18.Un archivo swap tiene el mismo rendimiento que una memoria RAM.-->Rta:Falso
+19.Si queremos eliminar la información que nos arroja un comando, ¿a dónde deberíamos redireccionar el ouput del comando?-->Rta:/dev/null
+20.Todos los archivos de configuración críticos se encuentran en:-->Rta:/etc
